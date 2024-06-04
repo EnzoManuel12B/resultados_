@@ -130,7 +130,8 @@ body {
     background: var(--dark-navy);
     color: var(--white);
     padding-block: 1.6rem;
-    border-radius: 1.8rem;
+    border-radius: 12.8rem;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 
@@ -169,7 +170,7 @@ body {
         font-size: 7.2rem;
     }
 
-    .resultado div stong:nth-of-type(2) {
+    .resultado div strong:nth-of-type(2) {
         font-size: 1.8rem;
     }
 
